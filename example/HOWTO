@@ -1,0 +1,4 @@
+1. Fork main project.
+2. Clone locally from own copy.
+3. git remote add upstream git://github.com/octocat/Spoon-Knife.git (path to main repo)
+4. Use: git pull upstream master, git push origin master, etc
